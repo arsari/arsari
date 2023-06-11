@@ -2,7 +2,7 @@
 [![Ask Me Anything](https://img.shields.io/badge/Ask_me!-anything-orange.svg?style=for-the-badge&logo=gmail)](mailto:asantiago@arsari.com "I can help you!")&nbsp;&nbsp;
 <a id="top" href="https://www.arsari.us/blog" title="Posts about coding" target="_blank"><img src="https://img.shields.io/badge/Blog-arsari.us-green.svg?style=for-the-badge&logo=blogger" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/arturosantiago"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/arsari"><img src="https://img.shields.io/badge/Twitter-lightblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+<a href="https://twitter.com/arq-asr"><img src="https://img.shields.io/badge/Twitter-lightblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 ---
 
 ### :man_technologist: About Me :
