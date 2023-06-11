@@ -1,5 +1,4 @@
-# Hi there 👋&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=arsari&style=flat-square&color=blue" alt=""/>
-
+# Hi there 👋
 [![Ask Me Anything](https://img.shields.io/badge/Ask_me!-anything-orange.svg?style=for-the-badge&logo=gmail)](mailto:asantiago@arsari.com "I can help you!")&nbsp;&nbsp;
 <a id="top" href="https://www.arsari.us/blog" title="Posts about coding" target="_blank"><img src="https://img.shields.io/badge/Blog-arsari.us-green.svg?style=for-the-badge&logo=blogger" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/arturosantiago"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>&nbsp;&nbsp;
@@ -37,4 +36,5 @@ I am Arturo Santiago-Rivera. I am driven to complete work, no matter how difficu
 </div>
 
 ---
-©️ 2016-2023 Arturo Santiago-Rivera
+©️ 2016-2023 Arturo Santiago-Rivera<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=arsari&style=flat-square&color=blue" alt="Profile Views"/>
+
