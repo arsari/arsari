@@ -5,13 +5,13 @@
 <a href="https://twitter.com/arq_asr"><img src="https://img.shields.io/badge/Twitter-lightblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 ---
 
-### :man_technologist: About Me :
+### 👨‍💻 About Me :
 
 I am Arturo Santiago-Rivera. I am driven to complete work, no matter how difficult. I bring problem-solving solutions with intellectual humility and a leadership attitude to excel in computer science based on hard skills and abilities acknowledged from exercising computer and technology skills, data analysis, software development, and technical writing. All those skills and abilities make me an excellent software engineer prospect focused on developing algorithms that computers can understand but primarily that humans can understand.
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=arsari&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/arsari)
 
@@ -19,7 +19,7 @@ I am Arturo Santiago-Rivera. I am driven to complete work, no matter how difficu
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
