@@ -13,8 +13,6 @@ I am Arturo Santiago-Rivera. I am driven to complete work, no matter how difficu
 
 ### 🔥 My Stats :
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=arsari&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/arsari)
-
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arsari&theme=radical&layout=compact&langs_count=6&cache_seconds=1800)](https://github.com/arsari)&nbsp;&nbsp;&nbsp;&nbsp;[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arsari&theme=radical&cache_seconds=1800)](https://github.com/arsari)
 
 ---
@@ -35,5 +33,5 @@ I am Arturo Santiago-Rivera. I am driven to complete work, no matter how difficu
 </div>
 
 ---
-©️ 2016-2023 Arturo Santiago-Rivera<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=arsari&style=flat-square&color=blue" alt="Profile Views"/>
+©️ 2016-2024 Arturo Santiago-Rivera<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=arsari&style=flat-square&color=blue" alt="Profile Views"/>
 
