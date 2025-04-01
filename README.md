@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me :
 
-I am Arturo Santiago-Rivera. I am driven to complete work, no matter how difficult. I bring problem-solving solutions with intellectual humility and a leadership attitude to excel in computer science based on hard skills and abilities acknowledged from exercising computer and technology skills, data analysis, software development, and technical writing. All those skills and abilities make me an excellent software engineer prospect focused on developing algorithms that computers can understand but primarily that humans can understand.
+I am Arturo Santiago-Rivera. I am driven to complete work, no matter how difficult. I bring problem-solving solutions with intellectual humility and a leadership attitude to excel in computer science based on hard skills and abilities acknowledged from exercising computer and technology skills, data analytics, software development, and technical writing. All those skills and abilities make me an excellent analytics engineer, software engineer, and full-stack developer focused on developing algorithms that computers can understand, but primarily that humans can understand.
 
 ---
 
@@ -33,5 +33,5 @@ I am Arturo Santiago-Rivera. I am driven to complete work, no matter how difficu
 </div>
 
 ---
-©️ 2016-2024 Arturo Santiago-Rivera<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=arsari&style=flat-square&color=blue" alt="Profile Views"/>
+©️ 2016-2025 Arturo Santiago-Rivera<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=arsari&style=flat-square&color=blue" alt="Profile Views"/>
 
