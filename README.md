@@ -17,7 +17,7 @@ I am Arturo Santiago-Rivera. I am driven to complete work, no matter how difficu
 
 ![Top Languages](https://ghstats.dev/api/langs?username=arsari&theme=radical&hide_border=true&border_radius=25)
 
-![Top Languages](https://ghstats.dev/api/langs?username=arsari&theme=radical&hide_border=true&border_radius=25)
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=arsari&theme=radical&days=30&width=320&height=80)
 
 ---
 
