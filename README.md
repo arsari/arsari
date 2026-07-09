@@ -11,12 +11,6 @@ I am Arturo Santiago-Rivera. I am driven to complete work, no matter how difficu
 
 ---
 
-### 🔥 My Stats :
-
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arsari&theme=radical&layout=compact&langs_count=6&cache_seconds=1800)](https://github.com/arsari)
-
----
-
 ### 🛠️ Languages and Tools :
 
 <div>
